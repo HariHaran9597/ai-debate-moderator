@@ -1,0 +1,12 @@
+fastapi==0.104.1
+uvicorn==0.24.0
+langchain==0.0.346
+langchain-google-genai==0.0.11
+langgraph==0.0.26
+langchain-core==0.1.16
+google-generativeai==0.3.2
+sse-starlette==1.6.4
+python-dotenv==1.0.0
+diskcache==5.6.3
+aiohttp==3.9.1
+pydantic==2.5.0
